@@ -1,0 +1,7 @@
+
+name = "terabox-api"
+type = "javascript"
+
+account_id = "fb099eec578537f2080322cbde22d504"
+workers_dev = true
+compatibility_date = "2024-05-25"
