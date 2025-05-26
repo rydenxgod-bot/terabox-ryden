@@ -1,5 +1,11 @@
 
 name = "terabox-api"
-type = "javascript"
 main = "index.js"
-compatibility_date = "2024-05-01"
+compatibility_date = "2024-05-26"
+usage_model = "bundled"
+
+[build]
+command = ""
+
+[upload]
+format = "modules"
